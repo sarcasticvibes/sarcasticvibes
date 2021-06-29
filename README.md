@@ -1,4 +1,5 @@
 ### Hi I'm Vaibhav Goel 👋
+- 🔭 I'm an NLP practitioner who likes to study state-of-the-art models for various NLP tasks.
 
 <!--
 **sarcasticvibes/sarcasticvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
