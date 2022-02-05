@@ -1,6 +1,7 @@
 ### Hi I'm Vaibhav Goel 👋
 - **🔭** I'm an NLP practitioner who likes to study state-of-the-art models for various NLP tasks.
 - **🌱** I’m currently learning graphical modeling for information retrival
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarcasticvibes&show_icons=true&theme=radical)
 
 <!--
 **sarcasticvibes/sarcasticvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
